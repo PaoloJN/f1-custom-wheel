@@ -5,6 +5,10 @@ Designed in Fusion, printed in black PLA on a Bambu Lab P2S, and assembled with 
 
 ![Exploded assembly in Fusion](images/fusion_exploded_iso.png)
 
+**The real thing, printed and on the rig:**
+
+![Printed wheel on the R5](images/real_wheel.jpg)
+
 > This repo is a build log. The CAD and print files aren't published yet. It works and looks good, but it isn't
 > perfect yet (see [Known issues](#known-issues)).
 
