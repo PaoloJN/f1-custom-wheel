@@ -5,10 +5,6 @@ Designed in Fusion, printed in black PLA on a Bambu Lab P2S, and assembled with 
 
 ![Exploded assembly in Fusion](images/fusion_exploded_iso.png)
 
-**The real thing, printed and on the rig:**
-
-![Printed wheel on the R5](images/real_wheel.jpg)
-
 > This repo is a build log. The CAD and print files aren't published yet. It works and looks good, but it isn't
 > perfect yet (see [Known issues](#known-issues)).
 
@@ -84,6 +80,12 @@ How it looks finished, in black (Blender):
 - **The front plate's lower seam** is a plain cut (no dovetail). The screws and the grip hold it.
 - **PLA softens around 55 °C.** Don't leave it in a hot car. PETG would be the upgrade.
 - More fixes are noted for a v2.
+
+## On the rig
+
+Printed and mounted on the R5:
+
+![Printed wheel on the rig](images/real_wheel.jpg)
 
 ## Credits
 
